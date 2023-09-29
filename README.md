@@ -1,0 +1,1 @@
+# renovate-regex-docker-pin
