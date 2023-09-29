@@ -1,6 +1,9 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
+    "config:base",
+    "docker:pinDigests",
+    "regexManagers:helmChartYamlAppVersions",
+    "regexManagers:dockerfileVersions"
   ]
 }
