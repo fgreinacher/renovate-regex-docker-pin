@@ -1,5 +1,5 @@
 # renovate: datasource=docker depName=php
-ARG PHP_VERSION=8.2.10
+ARG PHP_VERSION=8.3.1
 
 # renovate: datasource=docker depName=alpine
 ARG ALPINE_VERSION=3.18
