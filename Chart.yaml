@@ -2,4 +2,4 @@ apiVersion: v2
 name: netbox
 version: 4.1.8
 # renovate: image=netboxcommunity/netbox
-appVersion: v3.3.2
+appVersion: v3.7.0
